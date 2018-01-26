@@ -1,0 +1,2 @@
+# loto
+bat dau thoi
