@@ -44,3 +44,55 @@ git commit -m "day file test va file excel"
 git push
 git config credential.helper store
 git push https://github.com/hoangthien89/thanhtoan.git
+ls
+cd thanhtoan
+ls
+unzip node_modules.zip 
+ls
+cd ../
+ls
+touch test.php
+ls
+git add test.php 
+git status
+git mv test.php test2.php
+ls
+git status
+git mv test2.php ngu.php
+ls
+touch themnua.php
+ls
+touch hhh.txt
+ls
+git status
+touch .gitignore
+ls
+git status
+ls
+git add --all
+git status
+git rm --cache
+ls
+git status
+git log
+git commit -m "first commit"
+ls
+git log
+git status
+ls
+git status
+ls
+git status
+git add ngu.php
+git status
+ls
+git status
+git add ngu.php
+git statú
+git status
+git rm --cache ngu.php
+git status
+git add ngu.php
+git status
+ls
+git status
